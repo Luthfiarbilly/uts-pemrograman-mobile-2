@@ -3,11 +3,11 @@
 Project aplikasi mobile berbasis Flutter untuk memenuhi tugas Ujian Tengah Semester (UTS) mata kuliah **Pemrograman Mobile 2** (3 SKS) di **Universitas Teknologi Bandung**.
 
 ## Identitas Mahasiswa & Mata Kuliah
-- **Nama**: Raden Mochammad Luthfi Arbilly Ismail Poetra[cite: 7]
-- **NPM**: 24552011074[cite: 7]
-- **Kelas**: TIF RM 24 A[cite: 8]
-- **Mata Kuliah**: Pemrograman Mobile 2 / 3 SKS[cite: 8]
-- **Dosen Pengampu**: Nova Agustina, S.T., M.Kom.[cite: 8]
+- **Nama**: Raden Mochammad Luthfi Arbilly Ismail Poetra
+- **NPM**: 24552011074
+- **Kelas**: TIF RM 24 A
+- **Mata Kuliah**: Pemrograman Mobile 2 / 3 SKS
+- **Dosen Pengampu**: Nova Agustina, S.T., M.Kom.
 
 ## Fitur Utama Aplikasi
 - **SplashScreen**: Halaman pembuka sebelum masuk ke alur autentikasi[cite: 8].
@@ -25,7 +25,7 @@ Project aplikasi mobile berbasis Flutter untuk memenuhi tugas Ujian Tengah Semes
    ## Dokumentasi Tampilan Aplikasi
 
 ### Halaman Login
-![Halaman Login](screenshots/Cuplikan layar 2026-11-20 041146.png)
+![Halaman Login](<screenshots/Cuplikan layar 2026-11-20 041146.png>)
 
 ### Halaman List Informasi
 ![Halaman List Informasi](screenshots/Cuplikan layar 2026-11-20 042243.png)
