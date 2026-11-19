@@ -28,13 +28,13 @@ Project aplikasi mobile berbasis Flutter untuk memenuhi tugas Ujian Tengah Semes
 ![Halaman Login](<screenshots/Cuplikan layar 2026-11-20 041146.png>)
 
 ### Halaman List Informasi
-![Halaman List Informasi](screenshots/Cuplikan layar 2026-11-20 042243.png)
+![Halaman List Informasi](<screenshots/Cuplikan layar 2026-11-20 042243.png>)
 
 ### Halaman Detail Informasi
-![Halaman Detail Informasi](screenshots/Cuplikan layar 2026-11-20 042252.png)
+![Halaman Detail Informasi](<screenshots/Cuplikan layar 2026-11-20 042252.png>)
 
 ### Halaman Flutter Maps
-![Halaman Flutter Maps](screenshots/Cuplikan layar 2026-11-20 042302.png)
+![Halaman Flutter Maps](<screenshots/Cuplikan layar 2026-11-20 042302.png>)
 
 ### Halaman About Aplikasi
-![Halaman About Aplikasi](screenshots/Cuplikan layar 2026-11-20 042317.png)
+![Halaman About Aplikasi](<screenshots/Cuplikan layar 2026-11-20 042317.png>)
